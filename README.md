@@ -1,2 +1,2 @@
 # hello-world
-First use with the guide
+I like linux, c/c++, mysql and so on...
